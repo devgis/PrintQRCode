@@ -1,0 +1,20 @@
+E:\Work\智能药柜\ZKFPModule  SDK\sample\ZKFPModule C#\PrintApp\bin\Debug\PrintApp.exe
+E:\Work\智能药柜\ZKFPModule  SDK\sample\ZKFPModule C#\PrintApp\bin\Debug\PrintApp.pdb
+E:\Work\智能药柜\ZKFPModule  SDK\sample\ZKFPModule C#\PrintApp\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Work\智能药柜\ZKFPModule  SDK\sample\ZKFPModule C#\PrintApp\obj\x86\Debug\PrintApp.Form1.resources
+E:\Work\智能药柜\ZKFPModule  SDK\sample\ZKFPModule C#\PrintApp\obj\x86\Debug\PrintApp.Properties.Resources.resources
+E:\Work\智能药柜\ZKFPModule  SDK\sample\ZKFPModule C#\PrintApp\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Work\智能药柜\ZKFPModule  SDK\sample\ZKFPModule C#\PrintApp\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Work\智能药柜\ZKFPModule  SDK\sample\ZKFPModule C#\PrintApp\obj\x86\Debug\PrintApp.exe
+E:\Work\智能药柜\ZKFPModule  SDK\sample\ZKFPModule C#\PrintApp\obj\x86\Debug\PrintApp.pdb
+E:\Work\智能药柜\ZKFPModule  SDK\sample\ZKFPModule C#\PrintApp\bin\Debug\PrintApp.exe.config
+E:\Temp\PrintApp\bin\Debug\PrintApp.exe.config
+E:\Temp\PrintApp\obj\x86\Debug\PrintApp.exe
+E:\Temp\PrintApp\obj\x86\Debug\PrintApp.pdb
+E:\Temp\PrintApp\bin\Debug\PrintApp.exe
+E:\Temp\PrintApp\bin\Debug\PrintApp.pdb
+E:\Temp\PrintApp\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Temp\PrintApp\obj\x86\Debug\PrintApp.Form1.resources
+E:\Temp\PrintApp\obj\x86\Debug\PrintApp.Properties.Resources.resources
+E:\Temp\PrintApp\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Temp\PrintApp\obj\x86\Debug\GenerateResource.write.1.tlog
